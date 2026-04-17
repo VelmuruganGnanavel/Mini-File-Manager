@@ -1,5 +1,5 @@
 # Mini-File-Manager
-A Python-based CLI File Manager that allows users to perform file operations such as listing, creating, deleting, and viewing file details using the OS module.
+Python CLI File manager
 # 🚀 Mini File Manager (CLI-Based)
 
 ## 📌 Overview
